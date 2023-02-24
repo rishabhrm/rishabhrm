@@ -4,9 +4,9 @@
   
 ### Fullstack Developer
 
-- 🔭 I’m currently working on [CodeBook](https://github.com/the-shyguy/code-book)
+- 🔭 I’m currently working on [CodeBook](https://github.com/rishabhrm/code-book)
 - 🌱 I’m currently learning TypeScript
-- 📫 Reach me: [<img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/26/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>](https://www.linkedin.com/in/rohit-singh-861743159/) [<img align="center" src="https://img.icons8.com/cotton/26/000000/twitter.png"/>](https://twitter.com/Rohit70898777)
+- 📫 Reach me: [<img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/26/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>] (https://www.linkedin.com/in/rishabh-mishra1003/) [<img align="center" src="https://img.icons8.com/cotton/26/000000/twitter.png"/>] (https://twitter.com/rishabhm10_)
 - ⚡ Interests:
   - Anime <img width="20px" align="center" src="https://img.icons8.com/dusk/26/000000/naruto.png"/> (waiting for MHA season 6 and many more...)
   - Web3.0 & Blockchain <img align="center" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/20/000000/external-blockchain-cryptocurrency-vitaliy-gorbachev-lineal-color-vitaly-gorbachev-1.png"/>
