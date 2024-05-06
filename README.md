@@ -4,13 +4,13 @@
   
 ### Fullstack Developer
 
-- 🔭 I’m currently working on [CodeBook](https://github.com/rishabhrm/code-book)
+- 🔭 I’m currently working on [Pokédex](https://github.com/rishabhrm/pokedex)
 - 🌱 I’m currently learning TypeScript
-- 📫 Reach me: [<img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/26/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>](https://www.linkedin.com/in/rishabh-mishra1003/)[<img align="center" src="https://img.icons8.com/cotton/26/000000/twitter.png"/>](https://twitter.com/rishabhm10_)
+- 📫 Reach me: [<img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/26/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>](https://www.linkedin.com/in/rishabhmx/)[<img align="center" src="https://img.icons8.com/cotton/26/000000/twitter.png"/>](https://twitter.com/rishabhmx)
 - ⚡ Interests:
-  - Anime <img width="20px" align="center" src="https://img.icons8.com/dusk/26/000000/naruto.png"/> (cuurently watching One Piece, Detective Conan and continuations of my old shows)
-  - Web3.0 & Blockchain <img align="center" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/20/000000/external-blockchain-cryptocurrency-vitaliy-gorbachev-lineal-color-vitaly-gorbachev-1.png"/>
-  - Music <img src="https://img.icons8.com/office/20/000000/musical-notes.png"/> (pop, freestyle, melodies or suggest me some...) | LOFI while working
+  - Anime (and Japan, in general)
+  - AI/ML and Data Science
+  - Badminton and Chess
 
 ### Programming Languages:
 
@@ -31,7 +31,7 @@
 
 <br/><br/>
 
-### Cloud Services:
+### Cloud Services (yet to learn):
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
