@@ -4,34 +4,38 @@
   
 ### Fullstack Developer
 
-- 🔭 I’m currently working on [Pokédex](https://github.com/rishabhrm/pokedex)
-- 🌱 I’m currently learning TypeScript
-- 📫 Reach me: [<img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/26/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>](https://www.linkedin.com/in/rishabhmx/)[<img align="center" src="https://img.icons8.com/cotton/26/000000/twitter.png"/>](https://twitter.com/rishabhmx)
+- 🔭 I’m currently working on [Pokédex](https://github.com/rishabhrm/pokedex).
+- 🌱 I’m currently learning TypeScript.
+- 📫 Reach me:&nbsp;[<img align="center" width="20px" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg"/>](https://twitter.com/rishabhmx)&nbsp;&nbsp;[<img align="center" width="20px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg"/>](mailto:rishabhm.10.03@gmail.com)
 - ⚡ Interests:
-  - Anime (and Japan, in general)
-  - AI/ML and Data Science
+  - Anime, Japan and Japanese
   - Badminton and Chess
+  - AI/ML and Data Science
+
 
 ### Programming Languages:
 
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
-<img src="https://img.icons8.com/color/26/000000/python--v1.png"/>
+<img align="left" alt=".cpp" width="26px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
+<img align="left" alt=".java" width="22px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg"/>
+<img align="left" alt=".py" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 
-### Tools and Technologies:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" src="https://img.icons8.com/color/26/000000/git.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" src="https://img.icons8.com/color/26/000000/redux.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt=".js" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/>
+<img align="left" alt=".cs" width="29px" src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png"/>
+<img align="left" alt=".dart" width="26px" src="https://cdn.worldvectorlogo.com/logos/dart.svg"/>
 
 <br/><br/>
 
-### Cloud Services (yet to learn):
+### Tools and Technologies:
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img align="left" alt="HTML" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
+<img align="left" alt="CSS" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
+<img align="left" alt="Bootstrap" width="34px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+
+<img align="left" alt="NodeJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
+<img align="left" alt="Flutter" width="20px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
+
+<img align="left" alt="Figma" width="16px" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" />
+<img align="left" alt="VS Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
